@@ -1,0 +1,3 @@
+[submodule "emacs-theme-gruvbox"]
+	path = emacs-theme-gruvbox
+	url = https://github.com/Greduan/emacs-theme-gruvbox.git
