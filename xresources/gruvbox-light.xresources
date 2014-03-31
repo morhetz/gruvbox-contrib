@@ -6,29 +6,29 @@
 ! Last Modified: 11 Dec 2013
 ! -----------------------------------------------------------------------------
 
-*background: #3c3836
-*foreground: #fdf4c1
+*background: #fdf4c1
+*foreground: #3c3836
 ! Black + DarkGrey
 *color0:  #fdf4c1
 *color8:  #a89984
 ! DarkRed + Red
-*color1:  #9d0006
-*color9:  #cc241d
+*color1:  #cc241d
+*color9:  #9d0006
 ! DarkGreen + Green
-*color2:  #79740e
-*color10: #98971a
+*color2:  #98971a
+*color10: #79740e
 ! DarkYellow + Yellow
-*color3:  #b57614
-*color11: #d79921
+*color3:  #d79921
+*color11: #b57614
 ! DarkBlue + Blue
-*color4:  #076678
-*color12: #458588
+*color4:  #458588
+*color12: #076678
 ! DarkMagenta + Magenta
-*color5:  #8f3f71
-*color13: #b16286
+*color5:  #b16286
+*color13: #8f3f71
 ! DarkCyan + Cyan
-*color6:  #427b58
-*color14: #689d6a
+*color6:  #689d6a
+*color14: #427b58
 ! LightGrey + White
 *color7:  #665c54
 *color15: #3c3836
