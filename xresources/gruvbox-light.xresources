@@ -3,14 +3,16 @@
 ! Description: Retro groove colorscheme generalized
 ! Author: morhetz <morhetz@gmail.com>
 ! Source: https://github.com/morhetz/gruvbox-generalized
-! Last Modified: 11 Dec 2013
+! Last Modified: 6 Sep 2014
 ! -----------------------------------------------------------------------------
 
-*background: #fdf4c1
+! hard contrast: *background: #f9f5d7
+*background: #fbf1c7
+! soft contrast: *background: #f2e5bc
 *foreground: #3c3836
 ! Black + DarkGrey
 *color0:  #fdf4c1
-*color8:  #a89984
+*color8:  #928374
 ! DarkRed + Red
 *color1:  #cc241d
 *color9:  #9d0006
@@ -30,5 +32,5 @@
 *color6:  #689d6a
 *color14: #427b58
 ! LightGrey + White
-*color7:  #665c54
+*color7:  #7c6f64
 *color15: #3c3836

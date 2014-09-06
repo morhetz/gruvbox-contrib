@@ -11,9 +11,9 @@
  medium           #928374   245 [ 8][  ]   146-131-116   127-112- 97   #7f7061
                             244 [  ][ 8]
 
- light0_hard      #ffffc8   230 [  ][h0]   255-255-200   255-255-188   #ffffbc
- light0           #fdf4c1   229 [  ][ 0]   253-244-193   252-243-180   #fcf3b4
- light0_soft      #f4e8ba   228 [  ][s0]   244-232-186   241-228-172   #f1e4ac
+ light0_hard      #f9f5d7   230 [  ][h0]   249-245-215   NB: needs updated val
+ light0           #fbf1c7   229 [  ][ 0]   251-241-199   NB: needs updated val
+ light0_soft      #f2e5bc   228 [  ][s0]   242-229-188   NB: needs updated val
  light1           #ebdbb2   223 [15][  ]   235-219-178   230-212-163   #e6d4a3
  light2           #d5c4a1   250 [  ][  ]   213-196-161   203-184-144   #cbb890
  light3           #bdae93   248 [  ][  ]   189-174-147   175-159-129   #af9f81
