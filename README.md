@@ -12,6 +12,14 @@ Here's a list of ports to other text editors and applications. The original Vim 
 - [Greduan's port](https://github.com/Greduan/emacs-theme-gruvbox) (Actively maintained)
 - [Lee Machin's port](https://github.com/leemachin/emacs-gruvbox-theme) (No longer maintained)
 
+### Atom
+
+- [Isaac Hess's port](https://github.com/isaachess/gruvbox-atom)
+
+### Sublime // TextMate
+
+- [Isaac Hess's port](https://github.com/isaachess/gruvbox-sublime)
+
 ### Pentadactyl
 
 - [rominf's color scheme](https://github.com/rominf/pentadactyl-gruvbox)
