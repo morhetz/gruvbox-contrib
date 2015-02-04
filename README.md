@@ -15,6 +15,8 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Atom
 
 - [Isaac Hess's port](https://github.com/isaachess/gruvbox-atom)
+- [Keith Kirk's port](https://github.com/kmfk/atom-gruvbox-dark)
+- [Ryan Taylor's port](https://github.com/ryanmt/atom-gruvbox-dark)
 
 ### Sublime // TextMate
 
