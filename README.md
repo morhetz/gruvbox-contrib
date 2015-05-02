@@ -22,6 +22,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [Isaac Hess's port](https://github.com/isaachess/gruvbox-sublime)
 
+### Qt Creator
+
+- [Julian Konchunas's port](https://github.com/konchunas/gruvbox-qtcreator)
+
 ### Pentadactyl
 
 - [rominf's color scheme](https://github.com/rominf/pentadactyl-gruvbox)
