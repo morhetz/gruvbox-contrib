@@ -30,7 +30,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 ### Pentadactyl
 
-- [rominf's color scheme](https://github.com/rominf/pentadactyl-gruvbox)
+- [Roman Inflianskas's color scheme](https://github.com/rominf/pentadactyl-gruvbox)
 
 ### Multimarkdown Composer
 
