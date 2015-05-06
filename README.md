@@ -11,6 +11,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [Greduan's port](https://github.com/Greduan/emacs-theme-gruvbox) (Actively maintained)
 - [Lee Machin's port](https://github.com/leemachin/emacs-gruvbox-theme) (No longer maintained)
+- [Jason Milknis's Darktooth](https://github.com/emacsfodder/emacs-theme-darktooth) (Somehow related gruvbox-remix)
 
 ### Atom
 
@@ -21,6 +22,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Sublime // TextMate
 
 - [Isaac Hess's port](https://github.com/isaachess/gruvbox-sublime)
+- [Martin Radimec's port](https://bitbucket.org/martinradimec/gruvbox/)
 
 ### Qt Creator
 
