@@ -39,3 +39,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Pygments
 
 - [Dave Yarwood's port](https://github.com/daveyarwood/gruvbox-pygments)
+
+### Slack
+
+- [By unknown author](http://sweetthemesaremadeofthe.se/post/114732568417/gruvbox-inspired)
