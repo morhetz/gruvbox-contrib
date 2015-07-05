@@ -35,3 +35,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Multimarkdown Composer
 
 - [jlxz's stylesheet](https://github.com/jlxz/mmdc_gruvbox_style)
+
+### Pygments
+
+- [Dave Yarwood's port](https://github.com/daveyarwood/gruvbox-pygments)
