@@ -1,7 +1,7 @@
-gruvbox-generalized
+gruvbox-contrib
 ===================
 
-Retro groove color scheme generalized
+Ports of gruvbox colorscheme
 
 ## Ports
 
