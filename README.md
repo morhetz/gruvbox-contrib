@@ -1,7 +1,6 @@
-gruvbox-contrib
-===================
+<p align="center"><img src="https://imgrush.com/h0EfiWAdb4Ke.svg"></p>
 
-Ports of gruvbox colorscheme
+gruvbox contributions, ports and extras
 
 ## Ports
 
