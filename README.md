@@ -2,6 +2,17 @@
 
 gruvbox contributions, ports and extras
 
+Palette
+-------
+
+### Dark mode
+
+![Palette Dark](http://i.imgur.com/ofOAObj.png)
+
+### Light mode
+
+![Palette Light](http://i.imgur.com/y3bGiwk.pngg)
+
 ## Ports
 
 Here's a list of ports to other text editors and applications. The original Vim theme can be found here: https://github.com/morhetz/gruvbox
