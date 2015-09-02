@@ -7,11 +7,11 @@ Palette
 
 ### Dark mode
 
-![Palette Dark](http://i.imgur.com/ofOAObj.png)
+![Palette Dark](http://i.imgur.com/wa666xg.png)
 
 ### Light mode
 
-![Palette Light](http://i.imgur.com/y3bGiwk.pngg)
+![Palette Light](http://i.imgur.com/49qKyYW.png)
 
 ## Ports
 
