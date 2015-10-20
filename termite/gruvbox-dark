@@ -5,34 +5,34 @@ background = #282828
 foreground = #ebdbb2
 foreground_bold = #ebdbb2
 
-# Black + DarkGrey
+# dark0 + gray
 color0 = #282828
 color8 = #928374
 
-# DarkRed + Red
+# neurtral_red + bright_red
 color1 = #cc241d
 color9 = #fb4934
 
-# DarkGreen + Green
+# neutral_green + bright_green
 color2 = #98971a
 color10 = #b8bb26
 
-# DarkYellow + Yellow
+# neutral_yellow + bright_yellow
 color3 = #d79921
 color11 = #fabd2f
 
-# DarkBlue + Blue
+# neutral_blue + bright_blue
 color4 = #458588
 color12 = #83a598
 
-# DarkMagenta + Magenta
+# neutral_purple + bright_purple
 color5 = #b16286
 color13 = #d3869b
 
-# DarkCyan + Cyan
+# neutral_aqua + faded_aqua
 color6 = #689d6a
 color14 = #8ec07c
 
-# LightGrey + White
+# light4 + light1
 color7 = #a89984
 color15 = #ebdbb2
