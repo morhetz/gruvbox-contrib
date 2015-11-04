@@ -1,0 +1,40 @@
+[colors]
+# hard contrast: background = #f9f5d7
+background = #fbf1c7
+# soft contrast: background = #f2e5bc
+foreground = #3c3836
+foreground_bold = #3c3836
+
+# light0 + gray
+color0 = #fbf1c7
+color8 = #928374
+
+# neurtral_red + faded_red
+color1 = #cc241d
+color9 = #9d0006
+
+# neutral_green + faded_green
+color2 = #98971a
+color10 = #79740e
+
+# neutral_yellow + faded_yellow
+color3 = #d79921
+color11 = #b57614
+
+# neutral_blue + faded_blue
+color4 = #458588
+color12 = #076678
+
+# neutral_purple + faded_purple
+color5 = #b16286
+color13 = #8f3f71
+
+# neutral_aqua + faded_aqua
+color6 = #689d6a
+color14 = #427b58
+
+# dark4 + dark1
+color7 = #7c6f64
+color15 = #3c3836
+
+# vim: ft=dosini cms=#%s
