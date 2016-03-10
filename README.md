@@ -29,6 +29,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Sublime // TextMate
 
 - [Martin Radimec's port](https://github.com/peaceant/gruvbox)
+- [Brian Reilly's port](https://github.com/briles/gruvbox)
 
 ### Qt Creator
 
