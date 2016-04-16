@@ -29,7 +29,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Sublime // TextMate
 
 - [Martin Radimec's port](https://github.com/peaceant/gruvbox)
-- [Brian Reilly's port](https://github.com/briles/gruvbox)
+- [Brian Reilly's port](https://github.com/Briles/gruvbox)
 
 ### Qt Creator
 
@@ -50,3 +50,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Slack
 
 - [By unknown author](http://sweetthemesaremadeofthe.se/post/114732568417/gruvbox-inspired)
+
+### CudaText
+
+- [Brian Reilly's port](https://github.com/Briles/gruvbox-cudatext)
