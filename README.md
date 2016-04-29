@@ -31,6 +31,9 @@ Here's a list of ports to other text editors and applications. The original Vim 
 - [Martin Radimec's port](https://github.com/peaceant/gruvbox)
 - [Brian Reilly's port](https://github.com/briles/gruvbox)
 
+### IDEA
+- [Caleb Land's port](https://github.com/caleb/gruvbox-idea)
+
 ### Qt Creator
 
 - [Julian Konchunas's port](https://github.com/konchunas/gruvbox-qtcreator)
