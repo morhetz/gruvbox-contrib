@@ -26,11 +26,12 @@ Here's a list of ports to other text editors and applications. The original Vim 
 - [Caleb Land's port](https://github.com/caleb/gruvbox-syntax-atom)
 - [Brian Reilly's port](https://github.com/Briles/gruvbox-atom)
 - [Ryan Taylor's port](https://github.com/ryanmt/atom-gruvbox-dark)
+- [Brian Reilly's port](https://github.com/Briles/gruvbox-atom)
 
 ### Sublime // TextMate
 
 - [Martin Radimec's port](https://github.com/peaceant/gruvbox)
-- [Brian Reilly's port](https://github.com/briles/gruvbox)
+- [Brian Reilly's port](https://github.com/Briles/gruvbox)
 
 ### IDEA
 - [Caleb Land's port](https://github.com/caleb/gruvbox-idea)
@@ -54,3 +55,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Slack
 
 - [By unknown author](http://sweetthemesaremadeofthe.se/post/114732568417/gruvbox-inspired)
+
+### CudaText
+
+- [Brian Reilly's port](https://github.com/Briles/gruvbox-cudatext)
