@@ -59,3 +59,8 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### CudaText
 
 - [Brian Reilly's port](https://github.com/Briles/gruvbox-cudatext)
+
+### Visual Studio
+
+- [UI Theme by Mark Fischer, Jr.](https://github.com/flyingfisch/VSGruvbox)
+- [Editor themes by various authors](http://studiostyl.es/schemes/search?q=gruvbox)
