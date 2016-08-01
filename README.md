@@ -64,3 +64,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [UI Theme by Mark Fischer, Jr.](https://github.com/flyingfisch/VSGruvbox)
 - [Editor themes by various authors](http://studiostyl.es/schemes/search?q=gruvbox)
+
+### HyperTerm
+
+- [Gruvbox Dark Theme](https://github.com/mcchrish/hyperterm-gruvbox-dark)
