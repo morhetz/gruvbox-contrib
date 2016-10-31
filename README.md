@@ -68,3 +68,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### HyperTerm
 
 - [Gruvbox Dark Theme](https://github.com/mcchrish/hyperterm-gruvbox-dark)
+
+### Rofi
+
+- [Color themes by Brian Hardisty](https://github.com/bardisty/gruvbox-rofi)
