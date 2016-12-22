@@ -44,6 +44,14 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [Roman Inflianskas's color scheme](https://github.com/rominf/pentadactyl-gruvbox)
 
+### Vimperator
+
+- [Raphael McSinyx's color scheme](https://github.com/McSinyx/debdotfiles/tree/master/vimperator/.vimperator/colors)
+
+### Awesome WM
+
+- [Raphael McSinyx's theme](https://github.com/McSinyx/debdotfiles/tree/master/awesome/.config/awesome/themes/gruvbox)
+
 ### Multimarkdown Composer
 
 - [jlxz's stylesheet](https://github.com/jlxz/mmdc_gruvbox_style)
