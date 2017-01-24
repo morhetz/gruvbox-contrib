@@ -53,9 +53,9 @@
             <key>xcode.syntax.comment.doc.keyword</key>
             <string>0.49019607843137253 0.7137254901960784 0.4117647058823529 1</string>
             <key>xcode.syntax.identifier.class</key>
-            <string>0.984313725490196 0.41568627450980394 0.08627450980392157</string>
+            <string>0.9686274509803922 0.6941176470588235 0.1450980392156863</string>
             <key>xcode.syntax.identifier.class.system</key>
-            <string>0.984313725490196 0.41568627450980394 0.08627450980392157 1</string>
+            <string>0.9686274509803922 0.6941176470588235 0.1450980392156863 1</string>
             <key>xcode.syntax.identifier.constant</key>
             <string>0.7803921568627451 0.4392156862745098 0.5372549019607843 1</string>
             <key>xcode.syntax.identifier.constant.system</key>
