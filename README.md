@@ -80,3 +80,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Rofi
 
 - [Color themes by Brian Hardisty](https://github.com/bardisty/gruvbox-rofi)
+
+### Alacritty
+
+- [Daniel M. Capella's port](https://github.com/jwilm/alacritty/wiki/Color-schemes#gruvbox)
