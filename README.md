@@ -35,6 +35,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 ### IDEA
 - [Caleb Land's port](https://github.com/caleb/gruvbox-idea)
+- [Visual Gruvbox (Medium Dark) by rphlmr](https://github.com/rphlmr/visual-gruvbox-medium-dark)
 
 ### Qt Creator
 
@@ -72,6 +73,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [UI Theme by Mark Fischer, Jr.](https://github.com/flyingfisch/VSGruvbox)
 - [Editor themes by various authors](http://studiostyl.es/schemes/search?q=gruvbox)
+
+### Visual Studio Code
+
+- [Visual Gruvbox (Medium Dark) by rphlmr](https://marketplace.visualstudio.com/items?itemName=rphlmr.visual-gruvbox-medium-dark)
 
 ### HyperTerm
 
