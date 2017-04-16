@@ -73,6 +73,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [UI Theme by Mark Fischer, Jr.](https://github.com/flyingfisch/VSGruvbox)
 - [Editor themes by various authors](http://studiostyl.es/schemes/search?q=gruvbox)
+- [Visual Gruvbox (Medium Dark) by rphlmr](https://github.com/rphlmr/visual-gruvbox-medium-dark)
 
 ### Visual Studio Code
 
