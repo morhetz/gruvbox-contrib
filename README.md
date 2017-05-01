@@ -77,6 +77,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 ### Visual Studio Code
 
+- [Gruvbox Themes by Tom Philbin](https://marketplace.visualstudio.com/items?itemName=tomphilbin.gruvbox-themes)
 - [Visual Gruvbox (Medium Dark) by rphlmr](https://marketplace.visualstudio.com/items?itemName=rphlmr.visual-gruvbox-medium-dark)
 
 ### HyperTerm
