@@ -90,3 +90,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Alacritty
 
 - [Daniel M. Capella's port](https://github.com/jwilm/alacritty/wiki/Color-schemes#gruvbox)
+
+### Chrome
+
+- [Ben Brooks' port](https://github.com/bbrks/chrome-gruvbox)
