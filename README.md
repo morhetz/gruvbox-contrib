@@ -77,6 +77,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 - [Martin Radimec's port](https://github.com/peaceant/gruvbox)
 - [Brian Reilly's port](https://github.com/Briles/gruvbox)
 
+### Tilix terminal
+
+[Michael Thessel's port](https://github.com/MichaelThessel/tilix-gruvbox)
+
 ### Vimperator
 
 - [Raphael McSinyx's color scheme](https://github.com/McSinyx/debdotfiles/tree/master/vimperator/.vimperator/colors)
