@@ -79,7 +79,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 ### Tilix terminal
 
-[Michael Thessel's port](https://github.com/MichaelThessel/tilix-gruvbox)
+- [Michael Thessel's port](https://github.com/MichaelThessel/tilix-gruvbox)
 
 ### Vimperator
 
