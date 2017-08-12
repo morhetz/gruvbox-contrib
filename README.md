@@ -21,6 +21,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [Daniel M. Capella's port](https://github.com/jwilm/alacritty/wiki/Color-schemes#gruvbox)
 
+### Alfred
+
+- [Intens' gruvbox-dark port](https://www.alfredapp.com/extras/theme/FtXTsjweeU/)
+
 ### Atom
 
 - [Caleb Land's port](https://github.com/caleb/gruvbox-syntax-atom)
@@ -31,6 +35,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Awesome WM
 
 - [Raphael McSinyx's theme](https://github.com/McSinyx/debdotfiles/tree/master/awesome/.config/awesome/themes/gruvbox)
+
+### Chrome
+
+- [Ben Brooks' port](https://github.com/bbrks/chrome-gruvbox)
 
 ### CudaText
 
@@ -51,10 +59,6 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Multimarkdown Composer
 
 - [jlxz's stylesheet](https://github.com/jlxz/mmdc_gruvbox_style)
-
-### Alfred
-
-- [Intens' gruvbox-dark port](https://www.alfredapp.com/extras/theme/FtXTsjweeU/)
 
 ### Pentadactyl
 
@@ -99,7 +103,3 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [Gruvbox Themes by Tom Philbin](https://marketplace.visualstudio.com/items?itemName=tomphilbin.gruvbox-themes)
 - [Visual Gruvbox (Medium Dark) by rphlmr](https://marketplace.visualstudio.com/items?itemName=rphlmr.visual-gruvbox-medium-dark)
-
-### Chrome
-
-- [Ben Brooks' port](https://github.com/bbrks/chrome-gruvbox)
