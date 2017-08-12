@@ -52,6 +52,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [jlxz's stylesheet](https://github.com/jlxz/mmdc_gruvbox_style)
 
+### Alfred
+
+- [Intens' gruvbox-dark port](https://www.alfredapp.com/extras/theme/FtXTsjweeU/)
+
 ### Pentadactyl
 
 - [Roman Inflianskas's color scheme](https://github.com/rominf/pentadactyl-gruvbox)
