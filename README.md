@@ -52,6 +52,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [Gruvbox Dark Theme](https://github.com/mcchrish/hyperterm-gruvbox-dark)
 
+### i3status-rust
+
+- [Daniel M. Capella's port](https://github.com/greshake/i3status-rust/blob/master/src/themes.rs)
+
 ### IDEA
 - [Caleb Land's port](https://github.com/caleb/gruvbox-idea)
 - [Visual Gruvbox (Medium Dark) by rphlmr](https://github.com/rphlmr/visual-gruvbox-medium-dark)
@@ -88,10 +92,6 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Tilix terminal
 
 - [Michael Thessel's port](https://github.com/MichaelThessel/tilix-gruvbox)
-
-### Vimperator
-
-- [Raphael McSinyx's color scheme](https://github.com/McSinyx/debdotfiles/tree/master/vimperator/.vimperator/colors)
 
 ### Visual Studio
 
