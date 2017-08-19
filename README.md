@@ -40,6 +40,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [Ben Brooks' port](https://github.com/bbrks/chrome-gruvbox)
 
+### Conky
+
+- [a-schaefer's port](https://github.com/a-schaefers/i3-wm-gruvbox-theme/tree/master/conky)
+
 ### CudaText
 
 - [Brian Reilly's port](https://github.com/Briles/gruvbox-cudatext)
@@ -51,6 +55,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### HyperTerm
 
 - [Gruvbox Dark Theme](https://github.com/mcchrish/hyperterm-gruvbox-dark)
+
+### i3-wm
+
+- [a-schaefer's port](https://github.com/a-schaefers/i3-wm-gruvbox-theme)
 
 ### i3status-rust
 
