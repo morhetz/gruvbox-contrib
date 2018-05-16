@@ -1,0 +1,8 @@
+* Installation
+#+BEGIN_SRC bash
+# for a global installation the theme files need to be put into
+# /usr/share/xfce4/terminal/colorschemes
+
+mkdir -p ~/.local/share/xfce4/terminal/colorschemes
+cp *.theme ~/.local/share/xfce4/terminal/colorschemes/
+#+END_SRC
