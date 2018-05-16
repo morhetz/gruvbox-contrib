@@ -66,7 +66,6 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 ### IDEA
 - [Caleb Land's port](https://github.com/caleb/gruvbox-idea)
-- [Visual Gruvbox (Medium Dark) by rphlmr](https://github.com/rphlmr/visual-gruvbox-medium-dark)
 
 ### Multimarkdown Composer
 
