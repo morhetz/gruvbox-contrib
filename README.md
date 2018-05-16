@@ -42,7 +42,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 ### Conky
 
-- [a-schaefer's port](https://github.com/a-schaefers/i3-wm-gruvbox-theme/tree/master/conky)
+- [a-schaefers' port](https://github.com/a-schaefers/i3-wm-gruvbox-theme/tree/master/conky)
 
 ### CudaText
 
@@ -58,7 +58,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 ### i3-wm
 
-- [a-schaefer's port](https://github.com/a-schaefers/i3-wm-gruvbox-theme)
+- [a-schaefers' port](https://github.com/a-schaefers/i3-wm-gruvbox-theme)
 
 ### i3status-rust
 
