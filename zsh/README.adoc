@@ -1,0 +1,11 @@
+= A gruvbox zsh alien theme 
+
+== Prerequisites
+
+* Use zsh as shell
+* Install https://github.com/eendroroy/alien[alien theme]
+
+== Install
+
+Copy `gruvbox.zsh` in `~/alien/modules/themes`
+Edit `.zshrc` and change alien theme : `export ALIEN_THEME="gruvbox"`
