@@ -1,0 +1,28 @@
+axes.axisbelow: True
+axes.edgecolor: 3c3836
+axes.facecolor : fbf1c7
+axes.grid : True
+axes.labelcolor : 282828
+axes.labelsize : large
+axes.prop_cycle : cycler('color',['cc241d','98971a','d79921','458588','b16286','698d6a','7c6f64','9d0006','79740e','b57614','076678','8f3f71','427b58','928374'])
+axes.titlesize : x-large
+figure.dpi: 110
+figure.edgecolor: 3c3836
+figure.facecolor : fbf1c7
+grid.color : d5c4a1
+grid.linestyle : -
+legend.facecolor : ebdbb2
+legend.edgecolor : 3c3836
+legend.fancybox : True
+legend.framealpha : 1
+lines.color : fbf1c7
+patch.antialiased: True
+patch.facecolor : 9d0006
+savefig.edgecolor: 3c3836
+savefig.facecolor : fbf1c7
+savefig.transparent : True
+text.color : 282828
+xtick.color : 3c3836
+xtick.direction: out
+ytick.color : 3c3836
+ytick.direction: out
