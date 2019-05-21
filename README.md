@@ -68,6 +68,11 @@ Here's a list of ports to other text editors and applications. The original Vim 
 - [Caleb Land's port](https://github.com/caleb/gruvbox-idea)
 - [Visual Gruvbox (Medium Dark) by rphlmr](https://github.com/rphlmr/visual-gruvbox-medium-dark)
 
+### Mattermost
+
+- [magicmonty's gruvbox dark color
+    scheme](https://docs.mattermost.com/help/settings/theme-colors.html#gruvbox-dark-theme)
+
 ### Multimarkdown Composer
 
 - [jlxz's stylesheet](https://github.com/jlxz/mmdc_gruvbox_style)
