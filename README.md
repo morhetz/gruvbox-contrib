@@ -75,6 +75,11 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Kitty
 - [mkaz port for kitty.conf](https://gist.github.com/mkaz/5bc00e05488d3d87d20305aa830e9bc7)
 
+### Mattermost
+
+- [magicmonty's gruvbox dark color
+    scheme](https://docs.mattermost.com/help/settings/theme-colors.html#gruvbox-dark-theme)
+
 ### Multimarkdown Composer
 
 - [jlxz's stylesheet](https://github.com/jlxz/mmdc_gruvbox_style)
