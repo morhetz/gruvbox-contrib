@@ -52,6 +52,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [Greduan's port](https://github.com/Greduan/emacs-theme-gruvbox)
 
+### Fish shell
+
+- [fish-gruvbox](https://github.com/Jomik/fish-gruvbox)
+
 ### HyperTerm
 
 - [Gruvbox Dark Theme](https://github.com/mcchrish/hyperterm-gruvbox-dark)
