@@ -1,4 +1,4 @@
-<p align="center"><img src="http://svgur.com/i/3Dp.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/wiki/gruvbox-community/gruvbox/images/gruvbox.svg?sanitize=true"></p>
 
 gruvbox contributions, ports and extras
 
@@ -7,11 +7,11 @@ Palette
 
 ### Dark mode
 
-![Palette Dark](http://i.imgur.com/wa666xg.png)
+![Palette Dark](https://raw.githubusercontent.com/wiki/gruvbox-community/gruvbox/images/gruvbox_palette_dark.png)
 
 ### Light mode
 
-![Palette Light](http://i.imgur.com/49qKyYW.png)
+![Palette Light](https://raw.githubusercontent.com/wiki/gruvbox-community/gruvbox/images/gruvbox_palette_light.png)
 
 ## Ports
 
