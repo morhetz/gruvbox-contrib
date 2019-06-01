@@ -54,7 +54,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 ### Fish shell
 
-- [fish-gruvbox](https://github.com/Jomik/fish-gruvbox)
+- [fish-gruvbox](https://github.com/gruvbox-community/fish-gruvbox)
 
 ### HyperTerm
 
