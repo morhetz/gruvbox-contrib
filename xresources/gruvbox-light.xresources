@@ -11,7 +11,7 @@
 ! soft contrast: *background: #f2e5bc
 *foreground: #3c3836
 ! Black + DarkGrey
-*color0:  #fdf4c1
+*color0:  #fbf1c7
 *color8:  #928374
 ! DarkRed + Red
 *color1:  #cc241d
