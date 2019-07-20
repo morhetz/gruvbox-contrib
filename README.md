@@ -1,4 +1,4 @@
-<p align="center"><img src="http://svgur.com/i/3Dp.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/wiki/gruvbox-community/gruvbox/images/gruvbox.svg?sanitize=true"></p>
 
 gruvbox contributions, ports and extras
 
@@ -7,11 +7,11 @@ Palette
 
 ### Dark mode
 
-![Palette Dark](http://i.imgur.com/wa666xg.png)
+![Palette Dark](https://raw.githubusercontent.com/wiki/gruvbox-community/gruvbox/images/gruvbox_palette_dark.png)
 
 ### Light mode
 
-![Palette Light](http://i.imgur.com/49qKyYW.png)
+![Palette Light](https://raw.githubusercontent.com/wiki/gruvbox-community/gruvbox/images/gruvbox_palette_light.png)
 
 ## Ports
 
@@ -52,6 +52,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 
 - [Greduan's port](https://github.com/Greduan/emacs-theme-gruvbox)
 
+### Fish shell
+
+- [fish-gruvbox](https://github.com/gruvbox-community/fish-gruvbox)
+
 ### HyperTerm
 
 - [Gruvbox Dark Theme](https://github.com/mcchrish/hyperterm-gruvbox-dark)
@@ -67,6 +71,14 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### IDEA
 - [Caleb Land's port](https://github.com/caleb/gruvbox-idea)
 - [Visual Gruvbox (Medium Dark) by rphlmr](https://github.com/rphlmr/visual-gruvbox-medium-dark)
+
+### Kitty
+- [mkaz port for kitty.conf](https://gist.github.com/mkaz/5bc00e05488d3d87d20305aa830e9bc7)
+
+### Mattermost
+
+- [magicmonty's gruvbox dark color
+    scheme](https://docs.mattermost.com/help/settings/theme-colors.html#gruvbox-dark-theme)
 
 ### Multimarkdown Composer
 
@@ -97,6 +109,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 - [Martin Radimec's port](https://github.com/peaceant/gruvbox)
 - [Brian Reilly's port](https://github.com/Briles/gruvbox)
 
+### Taskpaper 3
+
+- [Nathan Wykes' port](https://github.com/nwykes/gruvbox-taskpaper-theme)
+
 ### Tilix terminal
 
 - [Michael Thessel's port](https://github.com/MichaelThessel/tilix-gruvbox)
@@ -110,4 +126,9 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Visual Studio Code
 
 - [Gruvbox Themes by Tom Philbin](https://marketplace.visualstudio.com/items?itemName=tomphilbin.gruvbox-themes)
+- [Gruvbox Minor by adamsome](https://marketplace.visualstudio.com/items?itemName=adamsome.vscode-theme-gruvbox-minor)
 - [Visual Gruvbox (Medium Dark) by rphlmr](https://marketplace.visualstudio.com/items?itemName=rphlmr.visual-gruvbox-medium-dark)
+
+### Midnight Commander
+
+- [Dmitriy Maksimovich's port](https://github.com/DmitriyMaksimovich/MidnightCommander-grovbox-port)
