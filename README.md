@@ -73,7 +73,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 - [jlxz's stylesheet](https://github.com/jlxz/mmdc_gruvbox_style)
 
 ### Notepad++
-- [wburton95's Port](https://github.com/wburton95/NotepadPP-Syntax-Color-Schemes)
+- [wburton95's Port](https://github.com/wburton95/Notepadpp-Gruvbox-Port)
 
 ### Pentadactyl
 
