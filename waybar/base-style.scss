@@ -117,15 +117,18 @@ window#waybar.hidden {
 }
 
 #mpd {
+    background-color: $color-bg1;
     color: $color-dark-aqua;
 }
 
 #mpd.disconnected {
+    background-color: $color-bg1;
      color: $color-dark-red;
 }
 
 #mpd.stopped {
     background-color: $color-bg1;
+    color: $color-bg4;
 }
 
 #mpd.paused {
