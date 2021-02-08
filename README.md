@@ -100,6 +100,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 - [Martin Radimec's port](https://github.com/peaceant/gruvbox)
 - [Brian Reilly's port](https://github.com/Briles/gruvbox)
 
+### Taskpaper 3
+
+- [Nathan Wykes' port](https://github.com/nwykes/gruvbox-taskpaper-theme)
+
 ### Tilix terminal
 
 - [Michael Thessel's port](https://github.com/MichaelThessel/tilix-gruvbox)
