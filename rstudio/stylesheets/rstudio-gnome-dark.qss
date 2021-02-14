@@ -1,0 +1,46 @@
+QMenuBar {
+  background-color: rgb(60, 60, 60);
+  color: rgb(204, 204, 204);
+  height: 30px;
+  font-size: 13px;
+}
+
+QMenuBar::item {
+  padding: 0 8px;
+}
+
+QMenuBar::item:selected {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: rgb(204, 204, 204);
+}
+
+QMenu {
+  background-color: rgb(37, 37, 37);
+  color: rgb(204, 204, 204);
+  font-size: 13px;
+  padding: 6.5px 0;
+}
+
+QMenu::item {
+  height: 24px;
+  padding: 0 26px;
+  border: 1px solid rgb(37, 37, 37);
+}
+
+QMenu::item:disabled {
+  color: rgba(204, 204, 204, 0.4);
+}
+
+QMenu::item:selected {
+  background-color: rgb(9, 71, 113);
+}
+
+QMenu::item:selected:disabled {
+  background-color: rgb(37, 37, 37);
+}
+
+QMenu::separator {
+  background-color: rgba(187, 187, 187, 0.4);
+  height: 1px;
+  margin: 4px 10.4px;
+}
