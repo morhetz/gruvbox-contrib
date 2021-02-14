@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocksConfig version="1">
+	<editor>
+		<colour_sets>
+			<default>
+				<NAME>
+					<str>
+						<![CDATA[default]]>
+					</str>
+				</NAME>
+				<cc>
+					<editor>
+						<keywords>
+							<SET4>
+								<str>
+									<![CDATA[__cplusplus __GNUC__ __GNUG__]]>
+								</str>
+							</SET4>
+						</keywords>
+					</editor>
+					<NAME>
+						<str>
+							<![CDATA[C/C++]]>
+						</str>
+					</NAME>
+				</cc>
+			</default>
+			<gruvbox>
+				<NAME>
+					<str>
+						<![CDATA[gruvbox]]>
+					</str>
+				</NAME>
+				<cc>
+					<style0>
+						<FORE>
+							<colour r="255" g="215" b="175" />
+						</FORE>
+						<BACK>
+							<colour r="40" g="40" b="40" />
+						</BACK>
+						<NAME>
+							<str>
+								<![CDATA[Default]]>
+							</str>
+						</NAME>
+					</style0>
+					<style1>
+						<FORE>
+							<colour r="255" g="215" b="175" />
+						</FORE>
+						<BACK>
+							<colour r="40" g="40" b="40" />
+						</BACK>
+						<NAME>
+							<str>
+								<![CDATA[Default]]>
+							</str>
+						</NAME>
+					</style1>
+					<style2>
+						<FORE>
+							<colour null="true" r="0" g="0" b="0" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Default (inactive)]]>
+							</str>
+						</NAME>
+					</style2>
+					<style3>
+						<FORE>
+							<colour null="true" r="0" g="0" b="0" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Default (inactive)]]>
+							</str>
+						</NAME>
+					</style3>
+					<style4>
+						<FORE>
+							<colour null="true" r="0" g="0" b="0" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Default (inactive)]]>
+							</str>
+						</NAME>
+					</style4>
+					<style5>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment (normal)]]>
+							</str>
+						</NAME>
+					</style5>
+					<style6>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment (normal)]]>
+							</str>
+						</NAME>
+					</style6>
+					<style7>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment (normal)]]>
+							</str>
+						</NAME>
+					</style7>
+					<style8>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment (normal)]]>
+							</str>
+						</NAME>
+					</style8>
+					<style9>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment line (normal)]]>
+							</str>
+						</NAME>
+					</style9>
+					<style10>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment line (normal)]]>
+							</str>
+						</NAME>
+					</style10>
+					<style11>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment (documentation)]]>
+							</str>
+						</NAME>
+					</style11>
+					<style12>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment (documentation)]]>
+							</str>
+						</NAME>
+					</style12>
+					<style13>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment (documentation)]]>
+							</str>
+						</NAME>
+					</style13>
+					<style14>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment (documentation)]]>
+							</str>
+						</NAME>
+					</style14>
+					<style15>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment line (documentation)]]>
+							</str>
+						</NAME>
+					</style15>
+					<style16>
+						<FORE>
+							<colour r="146" g="131" b="116" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment line (documentation)]]>
+							</str>
+						</NAME>
+					</style16>
+					<style17>
+						<FORE>
+							<colour r="152" g="151" b="26" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment keyword (documentation)]]>
+							</str>
+						</NAME>
+					</style17>
+					<style18>
+						<FORE>
+							<colour r="152" g="151" b="26" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment keyword (documentation)]]>
+							</str>
+						</NAME>
+					</style18>
+					<style19>
+						<FORE>
+							<colour r="152" g="88" b="26" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment keyword error (documentation)]]>
+							</str>
+						</NAME>
+					</style19>
+					<style20>
+						<FORE>
+							<colour r="152" g="88" b="26" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Comment keyword error (documentation)]]>
+							</str>
+						</NAME>
+					</style20>
+					<style21>
+						<FORE>
+							<colour r="177" g="98" b="134" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Number]]>
+							</str>
+						</NAME>
+					</style21>
+					<style22>
+						<FORE>
+							<colour r="177" g="98" b="134" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Number (inactive)]]>
+							</str>
+						</NAME>
+					</style22>
+					<style23>
+						<FORE>
+							<colour r="250" g="189" b="47" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Keyword]]>
+							</str>
+						</NAME>
+					</style23>
+					<style25>
+						<FORE>
+							<colour r="142" g="192" b="124" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[User keyword]]>
+							</str>
+						</NAME>
+					</style25>
+					<style27>
+						<FORE>
+							<colour null="true" r="0" g="0" b="0" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Global classes and typedefs]]>
+							</str>
+						</NAME>
+					</style27>
+					<style29>
+						<FORE>
+							<colour r="184" g="187" b="38" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[String]]>
+							</str>
+						</NAME>
+					</style29>
+					<style30>
+						<FORE>
+							<colour r="184" g="187" b="38" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[String]]>
+							</str>
+						</NAME>
+					</style30>
+					<style31>
+						<FORE>
+							<colour r="184" g="187" b="38" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[String]]>
+							</str>
+						</NAME>
+					</style31>
+					<style32>
+						<FORE>
+							<colour r="184" g="187" b="38" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[String (inactive)]]>
+							</str>
+						</NAME>
+					</style32>
+					<style33>
+						<FORE>
+							<colour r="184" g="187" b="38" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[String (inactive)]]>
+							</str>
+						</NAME>
+					</style33>
+					<style34>
+						<FORE>
+							<colour r="214" g="93" b="14" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Character]]>
+							</str>
+						</NAME>
+					</style34>
+					<style35>
+						<FORE>
+							<colour r="214" g="93" b="14" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Character (inactive)]]>
+							</str>
+						</NAME>
+					</style35>
+					<style36>
+						<FORE>
+							<colour null="true" r="0" g="0" b="0" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[UUID]]>
+							</str>
+						</NAME>
+					</style36>
+					<style37>
+						<FORE>
+							<colour r="175" g="175" b="0" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Preprocessor]]>
+							</str>
+						</NAME>
+					</style37>
+					<style38>
+						<FORE>
+							<colour null="true" r="0" g="0" b="0" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Preprocessor (inactive)]]>
+							</str>
+						</NAME>
+					</style38>
+					<style39>
+						<FORE>
+							<colour r="255" g="215" b="175" />
+						</FORE>
+						<NAME>
+							<str>
+								<![CDATA[Operator]]>
+							</str>
+						</NAME>
+					</style39>
+					<style41>
+						<BACK>
+							<colour r="80" g="80" b="80" />
+						</BACK>
+						<NAME>
+							<str>
+								<![CDATA[Selection]]>
+							</str>
+						</NAME>
+					</style41>
+					<style43>
+						<FORE>
+							<colour r="255" g="215" b="175" />
+						</FORE>
+						<BACK>
+							<colour r="124" g="111" b="100" />
+						</BACK>
+						<NAME>
+							<str>
+								<![CDATA[Matching brace highlight]]>
+							</str>
+						</NAME>
+					</style43>
+					<editor>
+						<keywords>
+							<SET4>
+								<str>
+									<![CDATA[__cplusplus __GNUC__ __GNUG__]]>
+								</str>
+							</SET4>
+						</keywords>
+					</editor>
+					<NAME>
+						<str>
+							<![CDATA[C/C++]]>
+						</str>
+					</NAME>
+				</cc>
+			</gruvbox>
+		</colour_sets>
+	</editor>
+	<colours>
+		<list>
+			<EDITOR_CARET>
+				<colour r="255" g="215" b="175" />
+			</EDITOR_CARET>
+			<START_HERE_BACKGROUND>
+				<colour r="40" g="40" b="40" />
+			</START_HERE_BACKGROUND>
+			<START_HERE_LINK>
+				<colour r="215" g="153" b="33" />
+			</START_HERE_LINK>
+			<LOGS_ERROR_TEXT>
+				<colour r="254" g="128" b="25" />
+			</LOGS_ERROR_TEXT>
+			<LOGS_FAILURE_TEXT>
+				<colour r="62" g="134" b="138" />
+			</LOGS_FAILURE_TEXT>
+			<LOGS_SUCCESS_TEXT>
+				<colour r="184" g="187" b="38" />
+			</LOGS_SUCCESS_TEXT>
+			<LOGS_WARNING_TEXT>
+				<colour r="250" g="189" b="47" />
+			</LOGS_WARNING_TEXT>
+			<EDITOR_HIGHLIGHT_OCCURRENCE>
+				<colour r="199" g="81" b="0" />
+			</EDITOR_HIGHLIGHT_OCCURRENCE>
+			<NASSI_COMMENT_COLOUR>
+				<colour r="202" g="126" b="30" />
+			</NASSI_COMMENT_COLOUR>
+			<LOGS_CRITICAL_BACK>
+				<colour r="196" g="118" b="34" />
+			</LOGS_CRITICAL_BACK>
+			<DBG_WATCHES_CHANGED>
+				<colour r="206" g="123" b="36" />
+			</DBG_WATCHES_CHANGED>
+			<PROJECT_TREE_NON_SOURCE_FILES>
+				<colour r="184" g="187" b="38" />
+			</PROJECT_TREE_NON_SOURCE_FILES>
+			<EDITOR_LINENUMBERS_BG>
+				<colour r="40" g="40" b="40" />
+			</EDITOR_LINENUMBERS_BG>
+			<EDITOR_MARGIN_CHROME_HIGHLIGHT>
+				<colour r="40" g="40" b="40" />
+			</EDITOR_MARGIN_CHROME_HIGHLIGHT>
+			<EDITOR_MARGIN_CHROME>
+				<colour r="40" g="40" b="40" />
+			</EDITOR_MARGIN_CHROME>
+		</list>
+	</colours>
+</CodeBlocksConfig>
+
