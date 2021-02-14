@@ -1,0 +1,136 @@
+* {
+    border: none;
+    border-radius: 0;
+    /* `otf-font-awesome` is required to be installed for icons */
+    font-family: monospace;
+    font-size: 22px;
+    min-height: 0;
+}
+
+window#waybar {
+    background-color: $color-bg1;
+    color: $color-fg3;
+    transition-property: background-color;
+    transition-duration: .5s;
+}
+
+window#waybar.hidden {
+    opacity: 0.2;
+}
+
+#workspaces button {
+    padding: 0 8px;
+    background-color: $color-bg0;
+    color: $color-bg3;
+}
+
+/* https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
+#workspaces button:hover {
+    background: $color-bg4;
+    color: $color-bg0;
+    box-shadow: inherit;
+    text-shadow: inherit;
+}
+
+#workspaces button.focused {
+    background-color: $color-bg2;
+    color: $color-fg1;
+}
+
+#workspaces button.urgent {
+    background-color: $color-dark-red;
+}
+
+#clock,
+#battery,
+#cpu,
+#memory,
+#temperature,
+#backlight,
+#network,
+#pulseaudio,
+#custom-media,
+#tray,
+#mode,
+#idle_inhibitor,
+#disk,
+#mpd {
+    padding: 0 16px;
+    color: $color-fg3;
+    border-left: 2px solid $color-bg2;
+}
+
+#battery.charging {
+    color: $color-dark-aqua;
+}
+
+@keyframes blink {
+    to {
+        color: $color-bg2;
+    }
+}
+
+.blinking {
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+#battery.critical:not(.charging) {
+    background-color: $color-dark-red;
+    @extend .blinking;
+}
+
+#network.disconnected {
+    color: $color-bg4;
+}
+
+#pulseaudio.muted {
+    color: $color-bg4;
+}
+
+#custom-media {
+    min-width: 100px;
+}
+
+#custom-media.custom-spotify {
+    color: $color-dark-aqua;
+}
+
+#custom-media.custom-vlc {
+    color: $color-dark-yellow;
+}
+
+#temperature.critical {
+    color: $color-light-red;
+    @extend .blinking;
+}
+
+#idle_inhibitor {
+    color: $color-bg4;
+}
+
+#idle_inhibitor.activated {
+    color: $color-dark-green;
+}
+
+#mpd {
+    background-color: $color-bg1;
+    color: $color-dark-aqua;
+}
+
+#mpd.disconnected {
+    background-color: $color-bg1;
+     color: $color-dark-red;
+}
+
+#mpd.stopped {
+    background-color: $color-bg1;
+    color: $color-bg4;
+}
+
+#mpd.paused {
+    background-color: $color-bg1;
+}

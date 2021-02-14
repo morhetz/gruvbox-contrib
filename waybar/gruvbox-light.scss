@@ -1,0 +1,40 @@
+// ----------------------------------------------------------------------------
+// Light Mode
+// ----------------------------------------------------------------------------
+
+// Light Background
+$color-bg0: #fbf1c7;
+$color-bg0-hard: #f9f5d7;
+$color-bg0-soft: #f2e5bc;
+$color-bg1: #ebdbb2;
+$color-bg2: #d5c4a1;
+$color-bg3: #bdae93;
+$color-bg4: #a89984;
+
+// Light Foreground
+$color-fg0: #282828;
+$color-fg1: #3c3836;
+$color-fg2: #504945;
+$color-fg3: #665c54;
+$color-fg4: #7c6f64;
+
+// Light Colors
+$color-dark-red: #cc241d;
+$color-dark-green: #98971a;
+$color-dark-yellow: #d79921;
+$color-dark-blue: #458588;
+$color-dark-purple: #b16286;
+$color-dark-aqua: #689d6a;
+$color-dark-orange: #d65d0e;
+$color-dark-gray: #928374;
+
+$color-light-red: #9d0006;
+$color-light-green: #79740e;
+$color-light-yellow: #b57614;
+$color-light-blue: #076678;
+$color-light-purple: #8f3f71;
+$color-light-aqua: #427b58;
+$color-light-orange: #af3a03;
+$color-light-gray: #7c6f64;
+
+@import 'base-style.scss';
