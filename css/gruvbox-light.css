@@ -1,0 +1,43 @@
+:root {
+
+/*
+ * ----------------------------------------------------------------------------
+ * Light Mode
+ * ----------------------------------------------------------------------------
+ */
+
+/* Light Background */
+--gb-bg0: #fbf1c7;
+--gb-bg0-hard: #f9f5d7;
+--gb-bg0-soft: #f2e5bc;
+--gb-bg1: #ebdbb2;
+--gb-bg2: #d5c4a1;
+--gb-bg3: #bdae93;
+--gb-bg4: #a89984;
+
+/* Light Foreground */
+--gb-fg0: #282828;
+--gb-fg1: #3c3836;
+--gb-fg2: #504945;
+--gb-fg3: #665c54;
+--gb-fg4: #7c6f64;
+
+/* Light Colors */
+--gb-dark-red: #cc241d;
+--gb-dark-green: #98971a;
+--gb-dark-yellow: #d79921;
+--gb-dark-blue: #458588;
+--gb-dark-purple: #b16286;
+--gb-dark-aqua: #689d6a;
+--gb-dark-orange: #d65d0e;
+--gb-dark-gray: #928374;
+
+--gb-light-red: #9d0006;
+--gb-light-green: #79740e;
+--gb-light-yellow: #b57614;
+--gb-light-blue: #076678;
+--gb-light-purple: #8f3f71;
+--gb-light-aqua: #427b58;
+--gb-light-orange: #af3a03;
+--gb-light-gray: #7c6f64;
+}
