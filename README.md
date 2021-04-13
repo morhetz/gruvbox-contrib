@@ -55,6 +55,10 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### Firefox
 - [Abraham Raji's port](https://github.com/avronr/gruvarc-firefox)
 
+### GTK
+- [Light theme by Salimundo](https://github.com/salimundo/Pop-gruvbox)
+- [Dark theme by 3ximus](https://github.com/3ximus/gruvbox-gtk)
+
 ### HyperTerm
 
 - [Gruvbox Dark Theme](https://github.com/mcchrish/hyperterm-gruvbox-dark)
