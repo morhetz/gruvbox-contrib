@@ -1,0 +1,23 @@
+{
+    "background": "#ffffaf",
+    "black": "#282828",
+    "blue": "#076678",
+    "brightBlack": "#A89984",
+    "brightBlue": "#076678",
+    "brightCyan": "#427B58",
+    "brightGreen": "#79740E",
+    "brightPurple": "#8F3F71",
+    "brightRed": "#9D0006",
+    "brightWhite": "#3C3836",
+    "brightYellow": "#B57614",
+    "cursorColor": "#282828",
+    "cyan": "#427B58",
+    "foreground": "#3C3836",
+    "green": "#79740E",
+    "name": "Gruvbox Light",
+    "purple": "#8F3F71",
+    "red": "#9D0006",
+    "selectionBackground": "#282828",
+    "white": "#A89984",
+    "yellow": "#B57614"
+}
