@@ -1,0 +1,40 @@
+/* ==========================================================================
+   Gruvbox Light Mode
+   ========================================================================== */
+
+:root {
+  /* Light Background */
+  --gb-lm-bg0: #fbf1c7;
+  --gb-lm-bg0-hard: #f9f5d7;
+  --gb-lm-bg0-soft: #f2e5bc;
+  --gb-lm-bg1: #ebdbb2;
+  --gb-lm-bg2: #d5c4a1;
+  --gb-lm-bg3: #bdae93;
+  --gb-lm-bg4: #a89984;
+
+  /* Light Foreground */
+  --gb-lm-fg0: #282828;
+  --gb-lm-fg1: #3c3836;
+  --gb-lm-fg2: #504945;
+  --gb-lm-fg3: #665c54;
+  --gb-lm-fg4: #7c6f64;
+
+  /* Light Colors */
+  --gb-lm-dark-red: #cc241d;
+  --gb-lm-dark-green: #98971a;
+  --gb-lm-dark-yellow: #d79921;
+  --gb-lm-dark-blue: #458588;
+  --gb-lm-dark-purple: #b16286;
+  --gb-lm-dark-aqua: #689d6a;
+  --gb-lm-dark-orange: #d65d0e;
+  --gb-lm-dark-gray: #928374;
+
+  --gb-lm-light-red: #9d0006;
+  --gb-lm-light-green: #79740e;
+  --gb-lm-light-yellow: #b57614;
+  --gb-lm-light-blue: #076678;
+  --gb-lm-light-purple: #8f3f71;
+  --gb-lm-light-aqua: #427b58;
+  --gb-lm-light-orange: #af3a03;
+  --gb-lm-light-gray: #7c6f64;
+}
