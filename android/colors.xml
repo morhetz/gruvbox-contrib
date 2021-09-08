@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Colors specific to Gruvbox. -->
+<resources>
+
+    <color name="gruvbox_dark0_hard">#1d2021</color>
+    <color name="gruvbox_dark0">#282828</color>
+    <color name="gruvbox_dark0_soft">#32302f</color>
+    <color name="gruvbox_dark1">#3c3836</color>
+    <color name="gruvbox_dark2">#504945</color>
+    <color name="gruvbox_dark3">#665c54</color>
+    <color name="gruvbox_dark4">#7c6f64</color>
+
+    <color name="gruvbox_gray_245">#928374</color>
+    <color name="gruvbox_gray_244">#928374</color>
+
+    <color name="gruvbox_light0_hard">#f9f5d7</color>
+    <color name="gruvbox_light0">#fbf1c7</color>
+    <color name="gruvbox_light0_soft">#f2e5bc</color>
+    <color name="gruvbox_light1">#ebdbb2</color>
+    <color name="gruvbox_light2">#d5c4a1</color>
+    <color name="gruvbox_light3">#bdae93</color>
+    <color name="gruvbox_light4">#a89984</color>
+
+    <color name="gruvbox_bright_red">#fb4934</color>
+    <color name="gruvbox_bright_green">#b8bb26</color>
+    <color name="gruvbox_bright_yellow">#fabd2f</color>
+    <color name="gruvbox_bright_blue">#83a598</color>
+    <color name="gruvbox_bright_purple">#d3869b</color>
+    <color name="gruvbox_bright_aqua">#8ec07c</color>
+    <color name="gruvbox_bright_orange">#fe8019</color>
+
+    <color name="gruvbox_neutral_red">#cc241d</color>
+    <color name="gruvbox_neutral_green">#98971a</color>
+    <color name="gruvbox_neutral_yellow">#d79921</color>
+    <color name="gruvbox_neutral_blue">#458588</color>
+    <color name="gruvbox_neutral_purple">#b16286</color>
+    <color name="gruvbox_neutral_aqua">#689d6a</color>
+    <color name="gruvbox_neutral_orange">#d65d0e</color>
+
+    <color name="gruvbox_faded_red">#9d0006</color>
+    <color name="gruvbox_faded_green">#79740e</color>
+    <color name="gruvbox_faded_yellow">#b57614</color>
+    <color name="gruvbox_faded_blue">#076678</color>
+    <color name="gruvbox_faded_purple">#8f3f71</color>
+    <color name="gruvbox_faded_aqua">#427b58</color>
+    <color name="gruvbox_faded_orange">#af3a03</color>
+
+</resources>
