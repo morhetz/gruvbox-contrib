@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo:color-table
+  xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0"
+  xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:ooo="http://openoffice.org/2004/office">
+
+  <draw:color draw:name="magenta-50" draw:color="#ff1ad9" />
+  <draw:color draw:name="magenta-60" draw:color="#ed00b5" />
+  <draw:color draw:name="magenta-70" draw:color="#b5007f" />
+  <draw:color draw:name="magenta-80" draw:color="#7d004f" />
+  <draw:color draw:name="magenta-90" draw:color="#440027" />
+
+  <draw:color draw:name="purple-50" draw:color="#9400ff" />
+  <draw:color draw:name="purple-60" draw:color="#8000d7" />
+  <draw:color draw:name="purple-70" draw:color="#6200a4" />
+  <draw:color draw:name="purple-80" draw:color="#440071" />
+  <draw:color draw:name="purple-90" draw:color="#25003e" />
+
+  <draw:color draw:name="blue-40" draw:color="#45a1ff" />
+  <draw:color draw:name="blue-50" draw:color="#0a84ff" />
+  <draw:color draw:name="blue-60" draw:color="#0060df" />
+  <draw:color draw:name="blue-70" draw:color="#003eaa" />
+  <draw:color draw:name="blue-80" draw:color="#002275" />
+  <draw:color draw:name="blue-90" draw:color="#000f40" />
+
+  <draw:color draw:name="teal-50" draw:color="#00feff" />
+  <draw:color draw:name="teal-60" draw:color="#00c8d7" />
+  <draw:color draw:name="teal-70" draw:color="#008ea4" />
+  <draw:color draw:name="teal-80" draw:color="#005a71" />
+  <draw:color draw:name="teal-90" draw:color="#002d3e" />
+
+  <draw:color draw:name="green-50" draw:color="#30e60b" />
+  <draw:color draw:name="green-60" draw:color="#12bc00" />
+  <draw:color draw:name="green-70" draw:color="#058b00" />
+  <draw:color draw:name="green-80" draw:color="#006504" />
+  <draw:color draw:name="green-90" draw:color="#003706" />
+
+  <draw:color draw:name="yellow-50" draw:color="#ffe900" />
+  <draw:color draw:name="yellow-60" draw:color="#d7b600" />
+  <draw:color draw:name="yellow-70" draw:color="#a47f00" />
+  <draw:color draw:name="yellow-80" draw:color="#715100" />
+  <draw:color draw:name="yellow-90" draw:color="#3e2800" />
+
+  <draw:color draw:name="red-50" draw:color="#ff0039" />
+  <draw:color draw:name="red-60" draw:color="#d70022" />
+  <draw:color draw:name="red-70" draw:color="#a4000f" />
+  <draw:color draw:name="red-80" draw:color="#5a0002" />
+  <draw:color draw:name="red-90" draw:color="#3e0200" />
+
+  <draw:color draw:name="orange-50" draw:color="#ff9400" />
+  <draw:color draw:name="orange-60" draw:color="#d76e00" />
+  <draw:color draw:name="orange-70" draw:color="#a44900" />
+  <draw:color draw:name="orange-80" draw:color="#712b00" />
+  <draw:color draw:name="orange-90" draw:color="#3e1300" />
+
+  <draw:color draw:name="grey-10" draw:color="#f9f9fa" />
+  <draw:color draw:name="grey-20" draw:color="#ededf0" />
+  <draw:color draw:name="grey-30" draw:color="#d7d7db" />
+  <draw:color draw:name="grey-40" draw:color="#b1b1b3" />
+  <draw:color draw:name="grey-50" draw:color="#737373" />
+  <draw:color draw:name="grey-60" draw:color="#4a4a4f" />
+  <draw:color draw:name="grey-70" draw:color="#38383d" />
+  <draw:color draw:name="grey-80" draw:color="#2a2a2e" />
+  <draw:color draw:name="grey-90" draw:color="#0c0c0d" />
+
+  <draw:color draw:name="ink-70" draw:color="#363959" />
+  <draw:color draw:name="ink-80" draw:color="#202340" />
+  <draw:color draw:name="ink-90" draw:color="#0f1126" />
+
+</ooo:color-table>
