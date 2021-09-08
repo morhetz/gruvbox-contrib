@@ -1,0 +1,90 @@
+GIMP Palette
+Name: Gruvbox
+#
+ 29  32  33    Dark0 hard
+ 40  40  40    Dark0
+ 50  48  47    Dark0 soft
+ 60  56  54    Dark1
+ 80  73  69    Dark2
+102  92  84    Dark3
+124 111 100    Dark4
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+146 131 116    gray 245
+146 131 116    gray 244
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+249 245 215    Light0 hard
+251 241 199    Light0
+242 229 188    Light0 soft
+235 219 178    Light1
+213 196 161    Light2
+189 174 147    Light3
+168 153 132    Light4
+251  73  52    Bright red
+184 187  38    Bright green
+250 189  47    Bright yellow
+131 165 152    Bright blue
+211 134 155    Bright purple
+142 192 124    Bright aqua
+254 128  25    Bright orange
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+204  36  29    Neutral red
+152 151  26    Neutral green
+215 153  33    Neutral yellow
+ 69 133 136    Neutral blue
+177  98 134    Neutral purple
+104 157 106    Neutral aqua
+214  93  14    Neutral orange
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+  0   0   0    (filler)
+157   0   6    Faded red
+121 116  14    Faded green
+181 118  20    Faded yellow
+  7 102 120    Faded blue
+143  63 113    Faded purple
+ 66 123  88    Faded aqua
+175  58   3    Faded orange
