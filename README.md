@@ -71,6 +71,12 @@ Here's a list of ports to other text editors and applications. The original Vim 
 - [Caleb Land's port](https://github.com/caleb/gruvbox-idea)
 - [Visual Gruvbox (Medium Dark) by rphlmr](https://github.com/rphlmr/visual-gruvbox-medium-dark)
 
+
+### Kitty
+
+- [Gruvbox Dark](https://github.com/dexpota/kitty-themes/blob/master/themes/gruvbox_dark.conf)
+- [Gruvbox Light](https://github.com/dexpota/kitty-themes/blob/master/themes/gruvbox_light.conf)
+
 ### Multimarkdown Composer
 
 - [jlxz's stylesheet](https://github.com/jlxz/mmdc_gruvbox_style)
