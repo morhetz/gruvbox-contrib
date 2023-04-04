@@ -62,6 +62,7 @@ Here's a list of ports to other text editors and applications. The original Vim 
 ### i3-wm
 
 - [a-schaefers' port](https://github.com/a-schaefers/i3-wm-gruvbox-theme)
+- [p3nguin-kun's port](https://github.com/p3nguin-kun/minimal-gruvbox-i3)
 
 ### i3status-rust
 
