@@ -3,13 +3,12 @@
 ! Description: Retro groove colorscheme generalized
 ! Author: morhetz <morhetz@gmail.com>
 ! Source: https://github.com/morhetz/gruvbox-generalized
-! Last Modified: 6 Sep 2014
+! Last Modified: 27 February 2024
 ! -----------------------------------------------------------------------------
 ! hard contrast: #define bg0h #f9f5d7
 ! soft contrast: #define bg0s #f2e5bc
 #define bg #fbf1c7
 #define fg #3c3836
-#define black #fdf4c1
 #define darkred #cc241d
 #define darkgreen #98971a
 #define darkyellow #d79921
@@ -30,7 +29,7 @@
 *background: bg
 *foreground: fg
 ! Black + DarkGrey
-*color0:  black
+*color0:  bg
 *color8:  gray
 ! DarkRed + Red
 *color1:  darkred
