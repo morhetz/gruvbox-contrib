@@ -5,33 +5,52 @@
 ! Source: https://github.com/morhetz/gruvbox-generalized
 ! Last Modified: 6 Sep 2014
 ! -----------------------------------------------------------------------------
+! hard contrast: #define bg0h #f9f5d7
+! soft contrast: #define bg0s #f2e5bc
+#define bg #fbf1c7
+#define fg #3c3836
+#define black #fdf4c1
+#define darkred #cc241d
+#define darkgreen #98971a
+#define darkyellow #d79921
+#define darkblue #458588
+#define darkpurple #b16286
+#define darkaqua #689d6a
+#define lightgray #7c6f64
+#define gray #928374
+#define red #9d0006
+#define green #79740e
+#define yellow #b57614
+#define blue #076678
+#define purple #8f3f71
+#define aqua #427b58
+#define white #3c3836
 
-! hard contrast: *background: #f9f5d7
-*background: #fbf1c7
-! soft contrast: *background: #f2e5bc
-*foreground: #3c3836
+
+*background: bg
+*foreground: fg
 ! Black + DarkGrey
-*color0:  #fdf4c1
-*color8:  #928374
+*color0:  black
+*color8:  gray
 ! DarkRed + Red
-*color1:  #cc241d
-*color9:  #9d0006
+*color1:  darkred
+*color9:  red
 ! DarkGreen + Green
-*color2:  #98971a
-*color10: #79740e
+*color2:  darkgreen
+*color10: green
 ! DarkYellow + Yellow
-*color3:  #d79921
-*color11: #b57614
+*color3:  darkyellow
+*color11: yellow
 ! DarkBlue + Blue
-*color4:  #458588
-*color12: #076678
+*color4:  darkblue
+*color12: blue
 ! DarkMagenta + Magenta
-*color5:  #b16286
-*color13: #8f3f71
+*color5:  darkpurple
+*color13: purple
 ! DarkCyan + Cyan
-*color6:  #689d6a
-*color14: #427b58
+*color6:  darkaqua
+*color14: aqua
 ! LightGrey + White
-*color7:  #7c6f64
-*color15: #3c3836
-*cursorColor: #3c3836
+*color7:  lightgray
+*color15: white
+*cursorColor: white

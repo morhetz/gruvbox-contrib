@@ -3,35 +3,53 @@
 ! Description: Retro groove colorscheme generalized
 ! Author: morhetz <morhetz@gmail.com>
 ! Source: https://github.com/morhetz/gruvbox-generalized
-! Last Modified: 6 Sep 2014
+! Last Modified: 27 February 2024
 ! -----------------------------------------------------------------------------
+! hard contrast: #define bg0h #1d2021
+! soft contrast: #define bg0s #32302f
+#define bg #282828
+#define fg1 #ebdbb2
+#define black #282828
+#define darkred #cc241d
+#define darkgreen #98971a
+#define darkyellow #d79921
+#define darkblue #458588
+#define darkpurple #b16286
+#define darkaqua #689d6a
+#define lightgray #a89984
+#define gray #928374
+#define red #fb4934
+#define green #b8bb26
+#define yellow #fabd2f
+#define blue #83a598
+#define purple #d3869b
+#define aqua #8ec07c
+#define white #ebdbb2
 
-! hard contrast: *background: #1d2021
-*background: #282828
-! soft contrast: *background: #32302f
-*foreground: #ebdbb2
+*background: bg
+*foreground: fg1
 ! Black + DarkGrey
-*color0:  #282828
-*color8:  #928374
+*color0:  black
+*color8:  gray
 ! DarkRed + Red
-*color1:  #cc241d
-*color9:  #fb4934
+*color1:  darkred
+*color9:  red
 ! DarkGreen + Green
-*color2:  #98971a
-*color10: #b8bb26
+*color2:  darkgreen
+*color10: green
 ! DarkYellow + Yellow
-*color3:  #d79921
-*color11: #fabd2f
+*color3:  darkyellow
+*color11: yellow
 ! DarkBlue + Blue
-*color4:  #458588
-*color12: #83a598
+*color4:  darkblue
+*color12: blue
 ! DarkMagenta + Magenta
-*color5:  #b16286
-*color13: #d3869b
+*color5:  darkpurple
+*color13: purple
 ! DarkCyan + Cyan
-*color6:  #689d6a
-*color14: #8ec07c
+*color6:  darkaqua
+*color14: aqua
 ! LightGrey + White
-*color7:  #a89984
-*color15: #ebdbb2
-*cursorColor: #ebdbb2
+*color7:  lightgray
+*color15: white
+*cursorColor: white
